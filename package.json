@@ -1,6 +1,6 @@
 {
   "name": "@nathanfaucett/curry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "creates function with arguments bound to it",
   "repository": {
     "type": "git",
@@ -29,8 +29,8 @@
     "zuul": "^3.6.0"
   },
   "dependencies": {
-    "@nathanfaucett/fast_slice": "0.0.1",
-    "@nathanfaucett/create_function_wrapper": "0.0.1",
-    "@nathanfaucett/is_function": "0.0.1"
+    "@nathanfaucett/fast_slice": "^0.0.1",
+    "@nathanfaucett/create_function_wrapper": "^0.0.2",
+    "@nathanfaucett/is_function": "^0.0.1"
   }
 }
